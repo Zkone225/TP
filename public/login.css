@@ -1,0 +1,30 @@
+header{
+    background-color: #dfeebde5;
+    display: grid;
+    grid-template-columns: 10px 1fr 10px 
+    
+}
+
+body{
+    background-color:grey;
+}
+
+.div1{
+    background-color:blue
+   
+}
+
+.div2{
+    background-color:blue
+}
+.div3 {
+    text-align:center;
+}
+
+.info{
+   
+}
+
+#titre{
+    text-align:center
+}
